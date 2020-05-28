@@ -9,6 +9,7 @@ body{
     margin: 0;
     padding: 0;
     overflow: hidden;
+    font-family: sans-serif,serif;
 }
     
 h1{
@@ -36,15 +37,14 @@ h1{
 	border:	1px solid black;
 	background-color: lavender;
 	width: 100%;
-	font-family: Helvetica,sans-serif;
+	
 }
 
 .sec-title{
     border: 1px solid black;
 	text-align: center;    
 	width: 150px;
-	font-family: Georgia,sans-serif;
-	font-size: 150%;
+    font-size: 150%;
 	padding: 5px;
     position: absolute;
     top: 0;
